@@ -24,13 +24,15 @@ Clone the repository:
 git clone https://github.com/Klimentina2709/Material-UI-App.git
 
 
-Install dependencies:
+# Install dependencies:
 npm install
 
-To start the development server, run:
+# To start the development server, run:
 npm run dev
 
-The app should now be running on http://localhost:5173.
+# The app should now be running on
+http://localhost:5173.
+
 ```
 
 ## Contact
