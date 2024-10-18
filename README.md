@@ -16,6 +16,10 @@ A simple React application built with React, TypeScript and Material UI that all
 - ![Material UI](https://img.shields.io/badge/Material-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 - ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
+## Screenshot
+
+![Breed Screenshot](public/breed.png)
+
 ## Getting Started
 
 Clone the repository:
