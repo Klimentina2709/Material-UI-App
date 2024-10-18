@@ -1,4 +1,4 @@
-# Material UI Image Search App
+# Material UI App
 
 A simple React application built with React, TypeScript and Material UI that allows users to search for breeds, click to view images, and load more results. The app fetches data using Axios and provides an interactive interface for browsing through different breeds.
 
@@ -11,10 +11,10 @@ A simple React application built with React, TypeScript and Material UI that all
 
 ## Technologies Used
 
-- ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Material UI](https://img.shields.io/badge/Material--UI-5.11-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-- ![Axios](https://img.shields.io/badge/Axios-1.2.0-5A29E4?style=for-the-badge)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Material UI](https://img.shields.io/badge/Material-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+- ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
 
 ## Getting Started
 
